@@ -1,88 +1,76 @@
-<!-- Banner: uses Unsplash query (space + nebula feel). Kalau mau custom banner, replace URL dengan link gambar sendiri -->
-<p align="center">
-  <img alt="banner" src="https://source.unsplash.com/1600x400/?space,nebula" width="100%" style="border-radius:12px;overflow:hidden" />
-</p>
+# Halo — Aing Maneh 👋 (Rafpelmln)
 
-<h1 align="center">Halo — Aing Maneh 👋 <br><small>(Rafpelmln)</small></h1>
+![Profile Banner](https://raw.githubusercontent.com/Rafpelmln/Rafpelmln/main/assets/banner_1200x200.png)
 
-<p align="center">
-  <img src="https://github.com/Rafpelmln.png" width="120" style="border-radius:16px; margin-bottom:6px;" alt="avatar" />
-</p>
+## Web Developer & Student — fokus ke Laravel & frontend modern
 
-<p align="center"><em>Web Developer & Student — fokus ke Laravel & frontend modern. Bikin aplikasi yang rapi, performa oke, dan UI asik.</em></p>
+<img align="right" alt="Typing Animation" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&multiline=false&repeat=true&width=300&lines=Web+Developer;Laravel+%E2%80%A2+React+%E2%80%A2+Next.js;Build+with+clean+code+%26+UX" />
 
-<p align="center">
-  <!-- typing-like SVG (image) -->
-  <img alt="type" src="https://readme-typing-svg.herokuapp.com?size=20&pause=1000&width=600&lines=Web+Developer;Laravel+%E2%80%A2+React+%E2%80%A2+Next.js;Build+with+clean+code+%26+UX" />
-</p>
+Gw tertarik sama luar angkasa, Mesir kuno & Yunani kuno, dan seni musik. Kombinasinya ngasih gw feel struktur, skala, dan rhythm — yang gw bawa ke desain UI/UX dan arsitektur kode.
 
----
+### 🛠️ Tech Stack
 
-## 🎯 Skill (quick chips)
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next" />
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚡ Skill level (visual, teks)
-Laravel ██████████ 90%
-JavaScript █████████░ 85%
-HTML & CSS ██████████ 92%
-Tailwind ████████░░ 80%
-React / Next ████████░░ 78%
+### 📊 Skill Progress
 
+```
+Laravel     ████████████████████████▒▒▒▒▒ 85%
+React       ████████████████████████▒▒▒▒▒▒ 80%
+JavaScript  ████████████████████████████▒▒ 90%
+CSS/HTML    ████████████████████████████▒▒▒ 88%
+```
 
----
+### 🌌 About Me
 
-## 🧭 Tentang gw (short & vibe)
-Gw suka luar angkasa 🪐 — rasa penasaran gw buat ngerti sistem yang besar dan rapih.  
-Suka Mesir kuno & Yunani kuno 🏺🏛️ — karena storytellingnya, simbolisme, dan arsitekturnya; gw sering ambil inspirasi estetika dari situ dalam UI.  
-Suka musik 🎵 — rhythm & struktur musik bantu gw ngerancang flow UX yang 'enak didengar' (secara visual).
+**Struktur klasik + keteraturan alam semesta + ritme musik = produk yang punya estetika & fungsi.**
 
-> Kombinasi: ambil ketertiban alam semesta + mitologi klasik + feel musikal → jadikan produk lu bukan cuma bekerja, tapi punya rasa.
+Gw seorang developer yang terinspirasi oleh:
+- 🌌 **Luar Angkasa**: Nebula, planet, dan bintang - memberi perspektif skala dan kompleksitas sistem
+- 🏺 **Mesir Kuno**: Ankh, sphinx, hieroglif - simbol struktur dan keabadian dalam desain
+- 🏛️ **Yunani Kuno**: Kolom, laurel - prinsip proporsi dan keharmonisan
+- 🎵 **Seni Musik**: Notasi, staff, waveform - rhythm dan flow dalam user experience
 
----
+### 🚀 Featured Projects
 
-## 🔭 Projects highlight
-- **RelScaper** — ekstensi Chrome untuk scraping, auto-scroll, export CSV. (sedang beta)  
-- **WhatsApp AI Bot** — integrasi WhatsApp Cloud API + n8n + Gemini untuk auto-reply produk & payment flow.  
-- **Moodle tweaks** — custom theme & troubleshooting (moodledata, filedir, permission, cron).
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **RelScaper** | Advanced web scraping tool | Laravel, JavaScript |
+| **WhatsApp AI Bot** | Intelligent chat automation | PHP, API Integration |
+| **Moodle Tweaks** | Educational platform enhancements | JavaScript, CSS |
 
-(Detail project bisa di-link tiap repo — taruh link di bawah ini nanti)
+### 📈 GitHub Stats
 
----
+<div align="center">
 
-## 🧩 Design motif (how README reflects taste)
-- Banner visual = **space/nebula** → feel luas & futuristik  
-- Badges = **modern dev stack** display  
-- Progress bars (ASCII) = simple, readable tanpa CSS  
-- Sections: mythology & music notes untuk personal touch (emoji + short sentence)
+![Rafpelmln's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafpelmln&show_icons=true&theme=tokyonight&bg_color=0f1724&title_color=06b6d4&icon_color=7c3aed&text_color=e2e8f0&border_color=06b6d4)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafpelmln&layout=compact&theme=tokyonight&bg_color=0f1724&title_color=06b6d4&text_color=e2e8f0&border_color=06b6d4)
 
-## 📫 Contact & links
-<p>
-  <a href="https://github.com/Rafpelmln"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" alt="github" /></a>
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="telegram" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email" /></a>
-</p>
+</div>
+
+### 🎨 Design Philosophy
+
+> "Code is poetry in motion, architecture is frozen music, and great UX is the harmony between human needs and digital possibilities."
+
+### 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafpelmln)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 ---
 
-## ✨ Easter egg
-- Mesir: ⚱️ — "If you see a sphinx on the UI, it probably means there's an ugly hack behind it."  
-- Yunani: 🏛️ — "Structure and order. Good software has good architecture."  
-- Space: 🪐 — "Ship it like a rocket; but test like gravity."
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rafpelmln/Rafpelmln/main/assets/icon_music_constellation.svg" width="20" alt="Music Constellation Icon">
+  <em>Building digital experiences with classical principles and cosmic perspective</em>
+  <img src="https://raw.githubusercontent.com/Rafpelmln/Rafpelmln/main/assets/icon_ankh_star.svg" width="20" alt="Ankh Star Icon">
+</div>
 
----
-
-> **Cara pakai:** copy paste block ini ke `README.md`.  
-> Mau dipoles lagi (versi lebih warna, banner custom, atau tambahan GIF/section project list)? Bilang aja — gw polesin jadi ultra-clean atau ultra-edgy sesuai mood lu.
-
----
-
+⭐️ From [Rafpelmln](https://github.com/Rafpelmln) | 🌐 [Visit my site](https://rafpelmln.github.io)
