@@ -1,4 +1,4 @@
-# Halo — Aing Maneh 👋 (Rafpelmln)
+# Halo 
 
 ![Profile Banner](https://raw.githubusercontent.com/Rafpelmln/Rafpelmln/main/assets/banner_1200x200.png)
 
@@ -73,4 +73,4 @@ Gw seorang developer yang terinspirasi oleh:
   <img src="https://raw.githubusercontent.com/Rafpelmln/Rafpelmln/main/assets/icon_ankh_star.svg" width="20" alt="Ankh Star Icon">
 </div>
 
-⭐️ From [Rafpelmln](https://github.com/Rafpelmln) | 🌐 [Visit my site](https://rafpelmln.github.io)
+⭐️ From [Rafpelmln](https://github.com/Rafpelmln) | 🌐 [Visit my site](https://rapelmln.my.id)
