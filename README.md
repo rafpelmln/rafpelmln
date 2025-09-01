@@ -16,6 +16,6 @@
 ---
 
 ### 📊 GitHub Stats
-![Pel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Pel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafpelmln&show_icons=true&theme=radical)
 
 ---
