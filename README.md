@@ -1,21 +1,34 @@
-<h1 align="center">Hi 👋, I'm Pel</h1>
+<h1 align="center">Halo — Aing Maneh 👋 <br><small>(Rafpelmln)</small></h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F72F&center=true&vCenter=true&width=500&lines=Web+Dev+Enthusiast;Moodle+Tinkerer;Learning+TOEIC+📘" />
+  <img src="https://github.com/Rafpelmln.png" width="120" style="border-radius:14px;" />
+</p>
+
+<p align="center">
+  Web Developer & Student — fokus ke Laravel & frontend modern.  
+  <br/>Bikin aplikasi yang rapi, performa oke, dan UI asik 🚀
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Skills
+- **Laravel**: ██████████░░ 90%  
+- **JavaScript**: █████████░░ 85%  
+- **HTML & CSS**: ██████████░ 92%  
+- **Tailwind**: ████████░░░░ 80%  
+- **React / Next.js**: ████████░░░░ 78%  
+
+---
+
+### 🔥 Tools
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-![Pel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafpelmln&show_icons=true&theme=radical)
-
----
+![Pel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafpelmln&show_icons=true&theme=tokyonight)
