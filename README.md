@@ -31,7 +31,7 @@ Inspired by the universe 🌌, ancient civilizations 🏛️, and music 🎵 —
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rafpelmln&show_icons=true&theme=tokyonight&bg_color=0f1724&title_color=06b6d4&icon_color=7c3aed&text_color=e2e8f0&border_color=06b6d4)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rafpelmln&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0f1724&title_color=06b6d4&icon_color=7c3aed&text_color=e2e8f0&border_color=06b6d4)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafpelmln&layout=compact&theme=tokyonight&bg_color=0f1724&title_color=06b6d4&text_color=e2e8f0&border_color=06b6d4)
 
